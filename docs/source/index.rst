@@ -11,7 +11,7 @@
 .. toctree::
    :maxdepth: 2
    
-   progress
+   progress/index
 
 
 
